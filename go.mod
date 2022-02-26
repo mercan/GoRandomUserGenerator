@@ -1,4 +1,4 @@
-module GoRandomUserGenerator
+module github.com/mercan/GoRandomUserGenerator
 
 // +heroku goVersion go1.17
 go 1.17

@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/mercan/RandomUserGenerator/handler"
+	"github.com/mercan/GoRandomUserGenerator/handler"
 
 	swagger "github.com/arsmn/fiber-swagger/v2"
 	"github.com/gofiber/fiber/v2"

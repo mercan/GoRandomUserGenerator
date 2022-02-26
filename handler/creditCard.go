@@ -1,9 +1,10 @@
 package handler
 
 import (
+	"time"
+
 	"github.com/brianvoe/gofakeit/v6"
 	"github.com/gofiber/fiber/v2"
-	"time"
 )
 
 type CreditCard struct {

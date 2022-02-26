@@ -5,10 +5,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/mercan/RandomUserGenerator/router"
+	_ "github.com/mercan/GoRandomUserGenerator/docs"
+	"github.com/mercan/GoRandomUserGenerator/router"
 
 	"github.com/gofiber/fiber/v2"
-	_ "github.com/mercan/RandomUserGenerator/docs"
 )
 
 // @title Go Random User Generator
