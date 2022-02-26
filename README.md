@@ -1,5 +1,5 @@
 
-# Proje Başlığı
+# Random User Generator
 
 Go ile yazılmış rastgele kullanıcı verileri oluşturmak için ücretsiz API
 
