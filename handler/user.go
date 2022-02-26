@@ -8,9 +8,10 @@ import (
 	"encoding/hex"
 	"time"
 
+	_ "github.com/mercan/GoRandomUserGenerator/docs"
+
 	"github.com/brianvoe/gofakeit/v6"
 	"github.com/gofiber/fiber/v2"
-	_ "github.com/mercan/GoRandomUserGenerator/docs"
 )
 
 type Response struct {
